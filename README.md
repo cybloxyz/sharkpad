@@ -8,7 +8,7 @@ it has 4 switch aranged in a line, i plan these keyboard will be:
 
 > song (chilling)
 
-> AI (i put gemini here)
+> AI (i put chatgpt here)
 
 > github
 
