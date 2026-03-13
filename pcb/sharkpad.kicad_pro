@@ -490,7 +490,7 @@
       "plot": "sharkpad_pcb",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sharkpad.step",
       "svg": "",
       "vrml": ""
     },
