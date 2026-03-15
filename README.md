@@ -37,4 +37,4 @@ here are components to make this sharkpad:
 |[SK6812 mini](https://shopee.co.id/SIDE-A-SK6812-IC-in-LED-Chip-Side-lighting-SMD-4020-ARGB-i.35142756.26262581770?xptdk=74835d21-07b9-496c-baf8-2bf4f36545da) |5 (minimum purchase) |Rp.3000 |Rp.15000 |
 |[NFCtag EL-N213-IW1020]() |5 (minimum purchase) |Rp.1850 |Rp.9250 |
 |total |Rp.77010 |
-|total + shipping cost |Rp.147959|
+|total + shipping cost |Rp.178659|
