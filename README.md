@@ -15,14 +15,14 @@ it has 4 switch aranged in a line, i plan these keyboard will be:
 i made this project to  learn how a keyboard works and i like my design on it!
 
 for more interesting stuff, take a look at pics folder.
-
+<img width="1795" height="1080" alt="sharkpad" src="https://github.com/cybloxyz/sharkpad/blob/main/pics/assembled.png?raw=true" />
 this is the 3d preview of the sharkpad.
 
 ## how it made?
 i made this through blueprint tutorial, designing the schematic with kicad
-
+<img width="1795" height="1080" alt="schema" src="https://github.com/cybloxyz/sharkpad/blob/main/pics/schema.png?raw=true" />
 and this is how the PCB looks like
-
+<img width="1795" height="1080" alt="pcb" src="https://github.com/cybloxyz/sharkpad/blob/main/pics/pcb.png?raw=true" />
 when i am done making PCB i continue to making the case, in here i use [onshape](https://www.onshape.com)
 <img width="1795" height="1080" alt="sharkpad_otherfront" src="https://github.com/user-attachments/assets/8e1aa541-4b20-4694-a6ff-26edcfefff3e" />
 
