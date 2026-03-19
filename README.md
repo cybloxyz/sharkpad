@@ -33,8 +33,9 @@ here are components to make this sharkpad:
 |-----|----|------|------|
 |[cherry MX2A switch](https://shopee.co.id/Cherry-original-Switch-MX2A-RGB-Mechanical-Keyboard-3-pin-Linear-Tactile-Factory-lubed-gamer-geek-i.394971789.29163700439?xptdk=959c536d-cdb1-4927-b3be-590d47619bf6) |4 |Rp.5990|Rp.23960 |
 |[keycap macaron clear cherry blue](https://shopee.co.id/Keycap-PBT-PC-Double-Cap-Macaron-Clear-Cherry-Profile-DIY-Mechanical-Keyboard-Switch-Armor-Game-GEEK-i.394971789.24144091358?xptdk=7d444ece-598c-4051-850c-4c8e76a8688d) |4 |Rp.5950 |Rp.23800 |
-|[double layer PCB](https://shopee.co.id/Layanan-Cetak-Pcb-Single-Layer-Dan-Double-Layer-i.100172996.43623177280?xptdk=e2854418-3a2e-4cdc-aff0-7e93d7e86390) |5 (minimum purchase) |Rp.1000 |Rp.5000 |
-|[SK6812 mini](https://shopee.co.id/SIDE-A-SK6812-IC-in-LED-Chip-Side-lighting-SMD-4020-ARGB-i.35142756.26262581770?xptdk=74835d21-07b9-496c-baf8-2bf4f36545da) |5 (minimum purchase) |Rp.3000 |Rp.15000 |
+|[double layer PCB 9x2cm, full-masking, fiber](https://shopee.co.id/Layanan-Cetak-Pcb-Single-Layer-Dan-Double-Layer-i.100172996.43623177280?xptdk=e2854418-3a2e-4cdc-aff0-7e93d7e86390) |5 (minimum purchase) |Rp.40000 |Rp.200000 |
 |[NFCtag EL-N213-IW1020]() |5 (minimum purchase) |Rp.1850 |Rp.9250 |
-|total |Rp.77010 |
-|total + shipping cost |Rp.178659|
+|[SK6812 mini](https://www.tokopedia.com/aldiboy2/20pcs-sk6803mini-e-sk6803-mini-e-3ma-sk6812mini-e-sk6812-mini-e-12ma-3228-led-chip-smd?t_id=1773617055149&t_st=5&t_pp=cart&t_efo=cart&t_ef=&t_sm=&t_spt=cart) |20 (minimum purchase) |Rp.5800 |Rp.116000 |
+|[seeeduino xiao RP2040](https://www.tokopedia.com/tokoasia-jkt/xiao-rp2040-supports-arduino-micropython-and-circuitpython-seed-studio-1733405594720700367?t_id=1773617055149&t_st=5&t_pp=cart&t_efo=cart&t_ef=&t_sm=&t_spt=cart) |1 |Rp.236900 |Rp.236900 |
+|total |Rp.609910 |
+|total + shipping cost |Rp.816559|
