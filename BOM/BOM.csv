@@ -1,8 +1,9 @@
-Name,Qty,Price,Total
+Name,Qty,Price (RP),Total
 Cherry MX2A Switch,4,5990,23960
 Keycap Macaron Clear Cherry Blue,4,5950,23800
-Double Layer PCB,5,1000,5000
-SK6812 mini,5,3000,15000
+Double Layer PCB 9x2cm fullmasking,3,40000,200000
+SK6812 mini,5,5800,11600
 NFC Tag EL-N213-IW1020,5,1850,9250
-Subtotal,,,77010
-Total + Shipping,,,147959
+seeeduino xiao rp2040,1,236900,236900
+Subtotal,,,609910
+Total + Shipping,,,816559
