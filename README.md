@@ -1,6 +1,8 @@
 # SHARKPAD!🦈🌊
 get ready for shark macropad! it could bite! sharkpad is 4x1 simple shar-themed macropad with nfc on it!
 
+![sharkpad](zine/sharkpad-zine.png)
+
 it has 4 switch aranged in a line, i plan these keyboard will be:
 > NFC, to open the sharkpad's website and repo
 

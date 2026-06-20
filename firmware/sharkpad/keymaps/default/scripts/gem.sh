@@ -1,4 +1,4 @@
 #!/bin/bash
-DEST="https://chatgpt.com"
+DEST="https://gemini.google.com"
 
 firefox "$DEST"

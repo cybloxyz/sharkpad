@@ -26,11 +26,11 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
         switch (keycode) {
             case KC_COMMIT:
                 // Mengetik "git commit -m "
-                SEND_STRING("./scripts/commit.sh" SS_TAP(X_ENTER));
+                SEND_STRING(SS_TAP(X_ENTER));
                 break;
             case KC_CHILL:
                 // Buka Spotify (Contoh shortcut Windows: Win+R lalu ketik spotify)
-                SEND_STRING("./scripts/commit.sh" SS_TAP(X_ENTER));
+                SEND_STRING(SS_DOWN(X_LALT) SS_DOWN(X_LCTL) SS_TAP(X_T) SS_UP(X_LCTL) SS_UP(X_LALT) SS_DELAY(200) "./scripts/gh.sh" SS_TAP(X_ENTER));
                 break;
             case KC_GEM:
                
@@ -38,7 +38,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
                 break;
             case KC_GITHUB:
               
-                SEND_STRING("./scripts/gem.sh" SS_TAP(X_ENTER));
+                SEND_STRING("./scripts/c.sh" SS_TAP(X_ENTER));
                 break;
         }
     }

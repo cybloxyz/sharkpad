@@ -2,28 +2,27 @@
     "manufacturer": "codingshark",
     "keyboard_name": "sharkpad",
     "maintainer": "cybloxyz",
+    "processor": "RP2040",
     "bootloader": "rp2040",
-    "diode_direction": "COL2ROW",
+    "url": "https://github.com/cybloxyz",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
     "features": {
         "bootmagic": true,
         "extrakey": true,
         "mousekey": true,
         "nkro": true
     },
-    "direct_pins":[
-        ["GP26", "GP27", "GP28", "GP29"]
-    ],
-    "processor": "RP2040",
-    "url": "",
-    "usb": {
-        "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
-    },
     "matrix_size": {
         "cols": 4,
         "rows": 1
     },
+    "direct_pins": [
+        ["GP26", "GP27", "GP28", "GP29"]
+    ],
     "layouts": {
         "LAYOUT": {
             "layout": [
