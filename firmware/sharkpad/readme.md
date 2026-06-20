@@ -1,12 +1,9 @@
 # sharkpad
 
-![sharkpad](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
+sharkpad is a shark themed 4 key macropad!
 
 * Keyboard Maintainer: [codingshark](https://github.com/cybloxyz)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: XIAO RP2040
 
 Make example for this keyboard (after setting up your build environment):
 

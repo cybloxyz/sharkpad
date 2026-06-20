@@ -1,46 +1,48 @@
 // Copyright 2023 QMK
 // SPDX-License-Identifier: GPL-2.0-or-later
-
 #include QMK_KEYBOARD_H
 
-enum custom_keycodes {
-    KC_COMMIT = SAFE_RANGE,
-    KC_CHILL,
-    KC_GEM,
-    KC_GITHUB
+enum shark_codes {
+    MOTIVATE_ME = SAFE_RANGE, // drinkmotivation: Shift+Alt+M
+    SONG_OTD,                 // email: Shift+Super+W
+    GIT_PUSH,                 // git push: Alt+Super+P
+    AI_PLS                    // gemini: Alt+Super+G
 };
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     /*
      * ┌───┬───┬───┬───┐
-     * │   │   │   │   │
+     * │ A │ B │ C │ D │
      * |___|___|___|___|
      */
     [0] = LAYOUT(
-        KC_COMMIT,   KC_CHILL,   KC_GEM,   KC_GITHUB
+        MOTIVATE_ME,   SONG_OTD,   GIT_PUSH,   AI_PLS
     )
 };
 
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     if (record->event.pressed) {
         switch (keycode) {
-            case KC_COMMIT:
-                // Mengetik "git commit -m "
-                SEND_STRING(SS_TAP(X_ENTER));
-                break;
-            case KC_CHILL:
-                // Buka Spotify (Contoh shortcut Windows: Win+R lalu ketik spotify)
-                SEND_STRING(SS_DOWN(X_LALT) SS_DOWN(X_LCTL) SS_TAP(X_T) SS_UP(X_LCTL) SS_UP(X_LALT) SS_DELAY(200) "./scripts/gh.sh" SS_TAP(X_ENTER));
-                break;
-            case KC_GEM:
-               
-                SEND_STRING("./scripts/gem.sh" SS_TAP(X_ENTER));
-                break;
-            case KC_GITHUB:
-              
-                SEND_STRING("./scripts/c.sh" SS_TAP(X_ENTER));
+            
+            case MOTIVATE_ME:
+                tap_code16(S(A(KC_M)));
+                return false; 
+            
+            case SONG_OTD:
+                tap_code16(S(G(KC_W)));
+                return false;
+            
+            case GIT_PUSH:
+                tap_code16(A(G(KC_P)));
+                return false;
+            
+            case AI_PLS:
+                tap_code16(A(G(KC_G)));
+                return false;
+            
+            default:
                 break;
         }
     }
-    return true;
-};
+    return true; 
+}

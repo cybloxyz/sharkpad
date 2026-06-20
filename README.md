@@ -6,13 +6,13 @@ get ready for shark macropad! it could bite! sharkpad is 4x1 simple shar-themed 
 it has 4 switch aranged in a line, i plan these keyboard will be:
 > NFC, to open the sharkpad's website and repo
 
-> git commit (helping faster commit)
+> git push
 
-> song (chilling)
+> motivation (give you a glass of motivation, it is huge!)
 
-> AI (i put chatgpt here)
+> AI (i put gemini here)
 
-> github
+> github (mine yo!)
 
 i made this project to  learn how a keyboard works and i like my design on it!
 
