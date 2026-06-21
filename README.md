@@ -19,6 +19,8 @@ i made this project to  learn how a keyboard works and i like my design on it!
 for more interesting stuff, take a look at pics folder.
 <img width="1795" height="1080" alt="sharkpad" src="https://github.com/cybloxyz/sharkpad/blob/main/pics/assembled.png?raw=true" />
 this is the 3d preview of the sharkpad.
+and here is the finished sharkpad:
+![sharkpad](pics/sharkpad-nobg.png)
 
 ## how it made?
 i made this through blueprint tutorial, designing the schematic with kicad
