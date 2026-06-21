@@ -27,7 +27,7 @@ i made this through blueprint tutorial, designing the schematic with kicad
 <img width="1795" height="1080" alt="schema" src="https://github.com/cybloxyz/sharkpad/blob/main/pics/schema.png?raw=true" />
 and this is how the PCB looks like
 <img width="1795" height="1080" alt="pcb" src="https://github.com/cybloxyz/sharkpad/blob/main/pics/pcb.png?raw=true" />
-when i am done making PCB i continue to making the case, in here i use [onshape](https://www.onshape.com)
+when i am done making PCB i continue to making the case, in here i use [onshape](https://cad.onshape.com/documents/c4d9ab6e3d342800dbedfe11/w/81e8f57874a7d8e3777827c3/e/26f27f1457e690f5cde5042a)
 <img width="1795" height="1080" alt="sharkpad_otherfront" src="https://github.com/user-attachments/assets/8e1aa541-4b20-4694-a6ff-26edcfefff3e" />
 
 ## components
